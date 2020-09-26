@@ -1,1 +1,1 @@
-# team2.github.io
+# uOttawa-Team-2.github.io
