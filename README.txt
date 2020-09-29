@@ -1,5 +1,5 @@
 ...
-__________________________
+________________________________________________________________
 
 Team Name:
 uOttawa Team 2
@@ -20,3 +20,8 @@ Description:
 A program with integrated motion tracking technology and cameras, created to judge the technical elements of synchronized swimming.
 The movements of the swimmers will be tracked and evaluated by the program. Using a database, the system will compare optimal performances to the swimmer, and calculates a score. 
 The full product aims to remove judge bias from the technical elements of synchronized swimming performances.
+
+________________________________________________________________
+
+Disclaimer:
+If you haven't figured it out yet, this is a school project and non-commercial.
