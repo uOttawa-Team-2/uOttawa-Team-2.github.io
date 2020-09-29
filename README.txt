@@ -8,7 +8,7 @@ Team Members' Names:
 Jerry Soong - Student Number 300174024
 Mehedi Hossain - Student Number 300177090
 Jeremy Belleau - Student Number 300169810
-Tia El Marsy - 300160596
+Tia El Masry - Student Number 3001609596
 
 
 
