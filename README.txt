@@ -1,4 +1,4 @@
-...
+Assisted Synchronized Swimming Scoring System (AS4)
 ________________________________________________________________
 
 Team Name:
@@ -14,7 +14,7 @@ Tia El Masry - Student Number 300160596
 Gianni Schiappa-Godard - Student Number 300169416
 
 Product Name:
-TBA
+Assisted Synchronized Swimming Scoring System (AS4)
 
 Description:
 A program with integrated motion tracking technology and cameras, created to judge the technical elements of synchronized swimming.
