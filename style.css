@@ -1,14 +1,34 @@
 body {
     font-family: 'Courier New', Courier, monospace;
-    background-color: gray;
+    background-color: deepskyblue;
+    text-align: center;
 }       
 
 a{
     display:inline-block;
     border: 1px solid black;
-    padding: 10px 10px;
+    padding: 10px 20px;
     text-decoration: none;
-    background: #0000FF;
-    color: #ADD8E6;
+    background: plum;
+    color: blue;
     border-radius: 10px;
+}
+
+a:visited{
+    display:inline-block;
+    border: 1px solid black;
+    padding: 10px 20px;
+    text-decoration: none;
+    background: plum;
+    color: blue;
+    border-radius: 10px;
+}
+
+a:hover{
+    color: green;
+}
+
+ul{
+    list-style-type: none;
+    font-size: 30px;
 }
