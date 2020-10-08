@@ -32,3 +32,9 @@ ul{
     list-style-type: none;
     font-size: 30px;
 }
+
+footer{
+    display: inline-block;
+    font-size: 30px;
+
+}
