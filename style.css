@@ -36,5 +36,7 @@ ul{
 footer{
     display: inline-block;
     font-size: 30px;
-
+    padding: 10px 20px;
+    background: plum;
+    color: black;
 }
