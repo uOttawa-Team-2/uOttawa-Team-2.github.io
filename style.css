@@ -36,3 +36,16 @@ footer {
     left:0;
     bottom: 0;
 }
+body{
+    background-color: #021d40;
+    color: #f2f2f2
+}
+header {
+    background-color:#f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    word-spacing: 20px;
+    font-size: 1.2em;
+    color:#021d40;
+    border-radius: 10px;
+}
