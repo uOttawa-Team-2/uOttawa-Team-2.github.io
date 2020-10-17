@@ -11,7 +11,7 @@ ul.nav {
 
 li.nav{
     display: inline;
-    margin: 0;
+    margin: 20px;
     padding: 0;
 }
 
@@ -45,7 +45,7 @@ header {
     background-color:#f2f2f2;
     text-align: center;
     padding: 14px 16px;
-    word-spacing: 20px;
+    word-spacing: 3px;
     font-size: 1.2em;
     color:#021d40;
     border-radius: 10px;
