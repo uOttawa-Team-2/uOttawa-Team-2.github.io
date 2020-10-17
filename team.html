@@ -1,6 +1,21 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <link rel="stylesheet" href="style.css"> 
+        <title> AS4 - Our Team </title>
+    </head>
+
+    
+    
+    <header>
+        <a href="index.html"> Home </a>
+        <a href="productfeatures.html"> Product Features </a>
+        <a href="Pricing.html"> Pricing </a>
+    </header>
+
     <body>
+        <h1>Our Team</h1>
+
         <table>
             <tr>
               <td>
@@ -49,5 +64,26 @@
                 </td>
             </tr>
         </table>
+
+        <form id="contactus">
+            <h3>Contact us</h3>
+            <label for=”name”>Your Name :</label><br>
+            <input type=”text” id=”name” name=”name” required><br>
+        
+            <label for=”email”>Your email address : </label><br>
+            <input type=email id=”email” name=”email” required><br>
+            <label>Your message : </label><br>
+            <textarea name="message" id="message" type="text" required></textarea>
+            <br>
+            <input type="submit" id="submit_button" value="Send">            
+        </form>
+
     </body>
+
+    <footer>   
+        <p>
+            Disclaimer: If you haven't figured it out yet, this is a school project and non-commercial.
+        </p>
+
+    </footer>
 </html>
