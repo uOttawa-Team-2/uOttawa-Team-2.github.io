@@ -107,17 +107,18 @@
         </div>
         <br>
     
-        <div id="contactus">
+        <form id="contactus">
             <h3>Contact us</h3>
             <label for=”name”>Your Name :</label><br>
-            <input type=”text” id=”name” name=”name”><br>
+            <input type=”text” id=”name” name=”name” required><br>
         
             <label for=”email”>Your email address : </label><br>
-            <input type=”text” id=”email” name=”email”><br>
-            
-            <label for=”message”>Enter your message : </label><br>
-            <input type=”text” id =”message” name=”message”>      
-        </div>
+            <input type=email id=”email” name=”email” required><br>
+            <label>Your message : </label><br>
+            <textarea name="message" id="message" type="text" required></textarea>
+            <br>
+            <input type="submit" id="submit_button" value="Send">            
+        </form>
 
     </body>
 
@@ -127,5 +128,5 @@
         </p>
 
     </footer>
-
+ 
 </html>
