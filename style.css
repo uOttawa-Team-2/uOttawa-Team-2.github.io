@@ -7,19 +7,7 @@ D: #89BAD9
 E: #F2F2F2
 (can be changed)
 */
-table {
-    /*Probably don't want the table border, since the last row of Our Team looks awkward*/
-    border: 2px solid #f2f2f2;
-}
 
-td {
-    border: 1px solid #f2f2f2;
-    /*May want to darken the cell bg-color*/
-    background-color: #5377a6;
-    width: 460px;
-    padding: 5px;
-    margin: 5px;
-}
 
 ul.nav {
     display: inline;
@@ -78,6 +66,19 @@ header {
 div.content {
     max-width: 960px;
     margin: auto;
+}
+
+div.content h1, h3, table, p, form :not(form h3) :not(td p, h3) {
+    padding: 5px 10px 5px 10px;
+}
+
+td {
+    border: 1px solid #f2f2f2;
+    /*May want to darken the cell bg-color*/
+    background-color: #5377a6;
+    width: 460px;
+    padding: 5px;
+    margin: 5px;
 }
 
 .image-holder {
