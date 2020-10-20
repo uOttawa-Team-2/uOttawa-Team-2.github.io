@@ -83,7 +83,8 @@ div.content {
     background: url(https://i.pinimg.com/originals/4e/63/26/4e6326bb18bb9c65e4c3b218f79b9a97.jpg);
     background-size:cover;
     background-position: center;
+    opacity:0.5;
     align-items: center;
-    opacity:0.3;
+    justify-content: center;
     
 }
