@@ -1,0 +1,27 @@
+Style guide:
+
+Header:
+The header has a background color of # . 
+The text in the header will have a color of #
+The font-size of the text will be 1.2em.
+The text will be aligned in the center with a word spacing of 3px.
+The padding in the header will be of 14px and 16px.
+The radius of the border will be of 10 px.
+
+When someone hovers over any of the 4 elements in the header, 
+the color changes to # and the font-weight becomes # 
+
+Body:
+The body text will have the color #
+The background color will be #
+The image will have a width of # and a height of #
+The background of the image will have a color of #
+
+
+Footer:
+The footer will have a background color of # and the text will be in the color #
+The top border will be of 1px and have the color #
+It's position will be fixed.
+The width will be 100%
+
+
