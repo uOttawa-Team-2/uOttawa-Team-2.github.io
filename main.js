@@ -1,0 +1,3 @@
+function buying() {
+    alert("GREAT CHOICE! ----- UNFORTUNATLY NO PRODUCTS ARE CURRENTLY AVAILABLE");
+}
