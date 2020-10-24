@@ -1,38 +1,41 @@
 Style guide:
 
 Header:
-The header has a background color of #add8e6 (lightBlue). 
+The header has a background color of #add8e6 (lightblue).
 The text in the header will have a color of #00008b (darkblue).
-The font-size of the text will be 1.2em.
+The font-size of the text will be 24px.
 The text will be aligned in the center with a word spacing of 3px.
-The padding in the header will be of 14px and 16px.
+The padding in the header will be of 20px and 16px.
 The radius of the border will be of 10 px.
 
 The navigation line will have an inline display with 0 padding and 0 margin 
 It will also have a background color of lightBlue.
 It's list-style-type is none.
 
-When someone hovers over any of the 4 elements in the header, the fontbecomes bold.
-When on a page, the corresponding element in the header will be underlined. 
-
+When someone hovers over any of the 4 elements in the header, the font becomes bold.
+When on a page, the corresponding element in the header will be underlined.
 
 Body:
 The body text will have the color #f2f2f2 and be sans-serif font.
 The paragraph text will have a size of 24px.
-The major heading text (h1) will have a size of 40 px.
-The minor heading text (h2) will have a size of 30 px.
-The background color will be #021d40.
-The image will have a width and height, based on the picture's original dimensions, which are 1600px by 1200px.
+The major heading text (h1) will have a size of 40px.
+The minor heading text (h2) will have a size of 30px.
+The background color will be #021d40
+The image will have a width and height, based on the picture’s original dimensions, which are 1600px by 1200 px.
 
 
 Footer:
-The footer will have a background color of #deb887 (nurlywood) and the text will be in the color #f2f2f2
+The footer will have a background color of #deb887 (burlywood) and the text will be in the color #f2f2f2.
 The top border will be of 1px and have the color #021d40
 It's position will be fixed.
 The width will be 100%
 
+
 Buttons:
-The buttons have a background color of #f2f2f2 and the text is #021d40.
+Buttons have a background color of #f2f2f2.
+Color of border is #021d40, border width is 5px, and border radius is 10px.
+Text that appears in buttons have font size 20px and color #021d40.
+
 
 
 

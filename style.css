@@ -59,9 +59,8 @@ body, html {
 header {
     background-color: lightblue;
     text-align: center;
-    padding: 14px 16px;
+    padding: 20px 16px;
     word-spacing: 3px;
-    font-size: 1.2em;
     color:#021d40;
     border-radius:10px;
 }
@@ -116,6 +115,10 @@ td p, td h3 {
 h1 {
     padding-top: 30px;
     font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
 }
 
 #as4{
@@ -223,11 +226,6 @@ h1 {
         transform:skew(-12deg);
         opacity:1;
     }
-}
-
-
-h2 {
-    font-size: 30px;
 }
 
 .buy_button {
