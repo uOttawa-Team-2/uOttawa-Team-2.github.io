@@ -31,5 +31,8 @@ The top border will be of 1px and have the color #021d40
 It's position will be fixed.
 The width will be 100%
 
+Buttons:
+The buttons have a background color of #f2f2f2 and the text is #021d40.
+
 
 
