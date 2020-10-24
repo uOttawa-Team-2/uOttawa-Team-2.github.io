@@ -25,7 +25,7 @@ The background of the image will have a color of #
 
 Footer:
 The footer will have a background color of #burlywood and the text will be in the color #
-The top border will be of 1px and have the color #0214dd40
+The top border will be of 1px and have the color #021d40
 It's position will be fixed.
 The width will be 100%
 
