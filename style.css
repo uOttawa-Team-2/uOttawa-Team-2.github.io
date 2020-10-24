@@ -2,8 +2,8 @@
 Color Palette Mashup 
 A: #021D40
 B: #5377A6
-C: #6997BF
-D: #89BAD9
+C: #6997BF  Unused
+D: #89BAD9  Unused
 E: #F2F2F2
 (can be changed)
 */
@@ -38,7 +38,7 @@ li a:hover {
 
 footer {
     background-color: burlywood;
-    border-top: 1px solid black;
+    border-top: 1px solid #021d40;
     position: fixed;
     width: 100%;
     left: 0;
@@ -86,6 +86,7 @@ td {
     width: 460px;
     padding: 5px;
     margin: 5px;
+    vertical-align: top;
 }
 
 td p, td h3 {
@@ -231,7 +232,7 @@ h2 {
 
 .buy_button {
     position: relative;;
-    display:block;
+    display: block;
     color:#021d40;
     border-radius: 10px;
     margin:2% 0;
