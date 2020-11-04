@@ -59,7 +59,9 @@ body, html {
 header {
     background-color: lightblue;
     text-align: center;
-    padding: 20px 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom:20px;
     word-spacing: 3px;
     color:#021d40;
     border-radius:10px;
@@ -296,4 +298,15 @@ h2 {
 .logo_media:hover{
     width: 50px;
     height: 45px;
+}
+
+.logo{
+    position: absolute;
+    left: 5%;
+    height: 70px;
+    width: 70px;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    border-radius: 50%;
+    overflow: hidden;
 }
