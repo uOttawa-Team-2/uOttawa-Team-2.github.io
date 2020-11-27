@@ -11,7 +11,6 @@ Matthew Sia - Student Number 300192570
 Jeremy Belleau - Student Number 300169810
 Carol Wang - Student Number 300197675
 Tia El Masry - Student Number 300160596
-Gianni Schiappa-Godard - Student Number 300169416
 
 Product Name:
 Assisted Synchronized Swimming Scoring System (AS4)
